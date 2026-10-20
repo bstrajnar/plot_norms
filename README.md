@@ -1,5 +1,8 @@
 # plot_norms
 
-# The curent example plots claef's psinup diagnostics
+## Example plots claef's spinup diagnostics
 
 python3 plot_norms1.py
+
+The search subdirectory and model timestep can be changed inside the script.
+
